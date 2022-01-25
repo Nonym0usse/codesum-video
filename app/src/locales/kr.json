@@ -1,0 +1,39 @@
+{
+  "welcome": {
+    "start": "시작 대화",
+    "abstract": "보안 직접 그룹 비디오 채팅",
+    "help": "더 배우기",
+    "created": "작성자"
+  },
+  "share": {
+    "title": "초대하다",
+    "link_info": "이 세션에 초대할 모든 사용자와 이 링크를 공유하십시오",
+    "button_copy": "공유하다",
+    "qr_info": "모바일 장치 카메라로 이 QR 코드를 스캔할 수도 있습니다:",
+    "feedback": "a virer"
+  },
+  "settings": {
+    "title": "설정",
+    "video": "비디오 원본",
+    "audio": "오디오 원본",
+    "desktop": "화면 또는 창 공유",
+    "blur": "배경 흐림",
+    "blur_info": "실험: 스마트 인공지능 알고리즘은 사람의 모양을 특정할 수 있고 남은 배경을 흐리게 할 것이다. 이렇게 하면 통화에 일부 시각적 개인 정보가 추가됩니다. 그러나 이 기능은 전력 소모량이 매우 높은 기능으로 모바일 기기에서는 작동하지 않을 가능성이 매우 높습니다!",
+    "bandwidth": "대역폭 최적화 적용",
+    "bandwidth_info": "실험: 이 설정으로 CodeSUM 비디오 및 오디오 데이터를 얇게 하여 대역폭을 줄이려고 합니다",
+    "fill": "비디오 스케일업",
+    "fill_info": "CodeSUM은 영상을 영상 프레임에 맞게 확대하여 사용 가능한 화면 공간을 최대한 활용하려고 합니다. 전원을 끄면 전체 비디오를 볼 수 있지만 주변에는 테두리가 있습니다.",
+    "subscribe": "이 룸을 구독합니다",
+    "subscribe_info": "실험: 가입하면 다른 사람이 이 방에 들어오면 알림을 받게 됩니다. 그런 다음 클릭 한 번으로 대화에 참여할 수 있습니다. 브라우저가 실행 중일 때만 알림이 표시됩니다",
+    "sentry": "버그 추적 허용",
+    "sentry_info": "a virer",
+    "sentry_confirm": "Thanks for allowing bug tracking. Please confirm to reload the page now.",
+    "background": "Background",
+    "persist_settings": "Persist Settings",
+    "original_background": "Original background",
+    "blurred_background": "Blurred background",
+    "image_background": "Image background",
+    "image_tip": "You can upload your own background by dragging an image file on this window.",
+    "random_image": "Click to get another random image."
+  }
+}
